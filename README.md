@@ -52,13 +52,13 @@ MTA:SA (Multi Theft Auto: San Andreas) platformu başta olmak üzere oyun içi s
 Benimle iletişime geçmek, projeler hakkında soru sormak veya iş birliği yapmak için:
 
 <p align="left">
-  <a href="https://discord.gg/" target="_blank">
+  <a href="https://discord.gg/PzjZPjtHDk" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/senel-debug" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:ornek@email.com">
+  <a href="mailto:quaweny@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
