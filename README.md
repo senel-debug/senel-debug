@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com"><img src="https://img.shields.io/badge/Status-Geliştirmeye%20Açık-brightgreen?style=for-the-badge&logo=github" alt="Status"></a>
+    <a href="https://github.com/senel-debug"><img src="https://img.shields.io/badge/Status-Geliştirmeye%20Açık-brightgreen?style=for-the-badge&logo=github" alt="Status"></a>
     <a href="https://lua.org"><img src="https://img.shields.io/badge/Language-Lua-000080?style=for-the-badge&logo=lua" alt="Lua"></a>
     <a href="https://multitheftauto.com"><img src="https://img.shields.io/badge/Platform-MTA%3ASA-blue?style=for-the-badge" alt="MTA:SA"></a>
   </p>
@@ -69,8 +69,6 @@ MTA:SA (Multi Theft Auto: San Andreas) platformu başta olmak üzere oyun içi s
 
 </div>
 
-> ⚠️ *Not: Yukarıdaki grafiklerin canlı görünmesi için `YOUR_GITHUB_USERNAME` kısmına kendi GitHub kullanıcı adınızı yazmanız yeterlidir.*
-
 ---
 
 ## 📫 İletişim & Sosyal Medya
@@ -81,7 +79,7 @@ Benimle iletişime geçmek, projeler hakkında soru sormak veya iş birliği yap
   <a href="https://discord.gg/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/senel-debug" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:ornek@email.com">
