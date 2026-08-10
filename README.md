@@ -47,30 +47,6 @@ MTA:SA (Multi Theft Auto: San Andreas) platformu başta olmak üzere oyun içi s
 
 ---
 
-## 📦 Öne Çıkan Projeler
-
-| Proje / Kaynak | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| 🛡️ **[Mercy Roleplay](file:///c:/Users/suley/Masa%C3%BCst%C3%BC/Diger/mercy/Mercy-Roleplay/Mercy-Roleplay)** | MTA:SA için modüler, yüksek performanslı ve modern arayüzlü roleplay script paketi. | Lua, DX Render, MySQL |
-| 🎨 **awrif_library** | Özel yuvarlatılmış köşe çizimleri (rounded rect), animasyonlar ve DX GUI kütüphanesi. | Lua, DirectX Render |
-| 🔔 **infobox** | Düşük CPU / RAM tüketimli, 5 farklı tema destekli bildirim (notification) sistemi. | Client / Server Lua |
-| 🛍️ **oocshop** | Oyuncu bakiyeleri ve admin paneli entegrasyonlu OOC Market scripti. | Lua, Database |
-| 🏎️ **speedo** | Modern gradient tasarımlı araç hız göstergesi (Speedometer). | Lua, Client Render |
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senel-debug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senel-debug&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-
-</div>
-
----
-
 ## 📫 İletişim & Sosyal Medya
 
 Benimle iletişime geçmek, projeler hakkında soru sormak veya iş birliği yapmak için:
