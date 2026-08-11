@@ -77,51 +77,6 @@ Game Development & Tools
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-⸻
-
-🏗️ Geliştirme Yaklaşımım
-
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   Clean Code        →  Okunabilir & sürdürülebilir │
-│                                                     │
-│   Modular Systems   →  Yeniden kullanılabilir      │
-│                                                     │
-│   Performance       →  Düşük resource kullanımı    │
-│                                                     │
-│   Modern UI         →  Akıcı & kullanıcı odaklı    │
-│                                                     │
-│   Scalability       →  Büyüyebilir altyapılar      │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-
-⸻
-
-🎮 MTA:SA
-
-MTA:SA projelerinde özellikle aşağıdaki sistemler üzerinde çalışıyorum:
-
-Client Side
-├── DX Rendering
-├── Custom UI Systems
-├── Animations
-├── Interaction Systems
-└── Texture Management
-Server Side
-├── Player Systems
-├── Economy Systems
-├── Database Systems
-├── Events & Exports
-└── Resource Architecture
-Optimization
-├── Render Optimization
-├── Memory Management
-├── Texture Caching
-├── Event Optimization
-└── Resource Performance
-
-⸻
-
 📫 İletişim
 
 <div align="center">
