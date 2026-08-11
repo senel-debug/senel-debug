@@ -60,12 +60,12 @@ MTA:SA (Multi Theft Auto: San Andreas) platformu başta olmak üzere oyun içi s
 📊 GitHub İstatistikleri
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=senel-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&rank_icon=github" height="180" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senel-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" height="180" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=senel-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&cache_seconds=1800" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senel-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&cache_seconds=1800" width="48%" alt="Top Languages">
 </div>
 <br>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=senel-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=senel-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="70%" alt="GitHub Streak">
 </div>
 
 ⸻
@@ -121,7 +121,7 @@ MTA:SA (Multi Theft Auto: San Andreas) platformu başta olmak üzere oyun içi s
 <a href="https://github.com/senel-debug" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="mailto:quaweny@gmail.com">
+<a href="mailto:quaweny@email.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 </p>
