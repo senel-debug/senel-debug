@@ -19,8 +19,6 @@
 </p>
 </div>
 
-⸻
-
 🚀 Hakkımda
 
 MTA:SA başta olmak üzere oyun içi sistemler, modern DX Render arayüzleri ve modüler sunucu altyapıları geliştiren bir yazılımcıyım.
@@ -38,8 +36,6 @@ MTA:SA başta olmak üzere oyun içi sistemler, modern DX Render arayüzleri ve 
 
 Mercy Roleplay için özel oyun içi sistemler, DX arayüz kütüphaneleri, bildirim sistemleri ve ekonomi altyapıları üzerinde çalışıyorum.
 
-⸻
-
 🧠 Uzmanlık Alanlarım
 
 <div align="center">
@@ -51,8 +47,6 @@ Client / Server	UI Animation	Texture Caching
 Event Systems	Responsive UI	Resource Optimization
 
 </div>
-
-⸻
 
 🛠️ Teknolojiler
 
@@ -93,8 +87,6 @@ Game Development & Tools
 <img src="https://img.shields.io/badge/Gmail-quaweny-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 </div>
-
-⸻
 
 <div align="center">
 
