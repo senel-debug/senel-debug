@@ -44,19 +44,6 @@ Mercy Roleplay için çeşitli oyun içi sistemler, DX arayüzleri, bildirim sis
 
 Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek projeler üzerinde daha fazla deneyim kazanmaya çalışıyorum.
 
-## 🧠 İlgi Alanlarım
-
-<div align="center">
-
-| 🎮 Oyun Geliştirme | 🎨 Arayüz Tasarımı | ⚡ Performans |
-|---|---|---|
-| MTA:SA | DX Render | FPS optimizasyonu |
-| Lua scripting | UI/UX tasarımı | Texture kullanımı |
-| Client/server sistemleri | Responsive arayüzler | Resource optimizasyonu |
-| Event ve export sistemleri | UI animasyonları | Kod düzenleme |
-
-</div>
-
 ## 🛠️ Kullandığım Teknolojiler
 
 ### Programming & Scripting
