@@ -9,19 +9,6 @@
     <strong>MTA:SA Developer • Lua Scripter • Öğrenmeye Devam Eden Bir Geliştirici</strong>
   </p>
 
-  <p>
-    <a href="https://github.com/senel-debug">
-      <img src="https://img.shields.io/badge/GitHub-senel--debug-181717?style=for-the-badge&logo=github" alt="GitHub">
-    </a>
-    <a href="https://discord.gg/PzjZPjtHDk">
-      <img src="https://img.shields.io/badge/Discord-İletişim-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <a href="mailto:quaweny@email.com">
-      <img src="https://img.shields.io/badge/Email-İletişim-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
-</div>
-
 ## 🚀 Hakkımda
 
 MTA:SA başta olmak üzere oyun içi sistemler, Lua scriptleri ve DX arayüzleri üzerinde çalışmalar yapan bir geliştiriciyim.
@@ -74,7 +61,7 @@ Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek proje
     Projeler, fikir alışverişi veya MTA:SA geliştirme hakkında iletişim kurmak istersen bana ulaşabilirsin.
   </p>
 
-  <a href="https://discord.gg/PzjZPjtHDk">
+  <a href="https://discord.gg/oraclelua">
     <img src="https://img.shields.io/badge/Discord-Şenel-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://github.com/senel-debug">
