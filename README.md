@@ -61,13 +61,13 @@ Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek proje
     Projeler, fikir alışverişi veya MTA:SA geliştirme hakkında iletişim kurmak istersen bana ulaşabilirsin.
   </p>
 
-  <a href="https://discord.gg/oraclelua">
+  <a href="https://discord.gg/lattelabs">
     <img src="https://img.shields.io/badge/Discord-Şenel-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://github.com/senel-debug">
     <img src="https://img.shields.io/badge/GitHub-senel--debug-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:quaweny@email.com">
+  <a href="mailto:seneldev@email.com">
     <img src="https://img.shields.io/badge/Gmail-quaweny-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
