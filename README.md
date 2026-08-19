@@ -62,13 +62,13 @@ Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek proje
   </p>
 
   <a href="https://discord.gg/lattelabs">
-    <img src="https://img.shields.io/badge/Discord-Şenel-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-Latte Labs-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://github.com/senel-debug">
     <img src="https://img.shields.io/badge/GitHub-senel--debug-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:seneldev@email.com">
-    <img src="https://img.shields.io/badge/Gmail-quaweny-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-seneldev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
