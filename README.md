@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Selam, Ben Şenel!
 
 <div align="center">
@@ -9,7 +10,7 @@
     <strong>MTA:SA Developer • Lua Scripter • Öğrenmeye Devam Eden Bir Geliştirici</strong>
   </p>
 
-## 🚀 Hakkımda
+## Hakkımda
 
 MTA:SA başta olmak üzere oyun içi sistemler, Lua scriptleri ve DX arayüzleri üzerinde çalışmalar yapan bir geliştiriciyim.
 
@@ -17,11 +18,11 @@ Kendimi yazılım ve oyun geliştirme alanında geliştirmeye çalışıyor, ö�
 
 Kod yazarken yalnızca çalışan sistemler oluşturmayı değil; zamanla daha düzenli, performanslı ve anlaşılır kod yazmayı da hedefliyorum.
 
-## 🔭 Şu Anda
+## Şu Anda
 
-Mercy Roleplay için çeşitli oyun içi sistemler, DX arayüzleri, bildirim sistemleri ve ekonomi yapıları üzerinde çalışıyorum.
+Mercy Roleplay için çeşitli oyun içi sistemler, DX arayüzleri üzerinde çalışıyorum.
 
-Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek projeler üzerinde daha fazla deneyim kazanmaya çalışıyorum.
+Bu projeler sayesinde Lua ve MTA:SA bilgimi ilerletiyor ve daha fazla deneyim kazanmaya çalışıyorum.
 
 ## 🛠️ Kullandığım Teknolojiler
 
@@ -56,6 +57,8 @@ Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek proje
 </div>
 
 <div align="center">
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=senel-debug&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views">
 
