@@ -24,7 +24,7 @@ Mercy Roleplay için çeşitli oyun içi sistemler, DX arayüzleri üzerinde ça
 
 Bu projeler sayesinde Lua ve MTA:SA bilgimi ilerletiyor ve daha fazla deneyim kazanmaya çalışıyorum.
 
-## 🛠️ Kullandığım Teknolojiler
+## Kullandığım Teknolojiler
 
 ### Programming & Scripting
 
@@ -57,7 +57,7 @@ Bu projeler sayesinde Lua ve MTA:SA bilgimi ilerletiyor ve daha fazla deneyim ka
 </div>
 
 <div align="center">
-<p>
+  
 <img src="https://komarev.com/ghpvc/?username=senel-debug&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views">
-</p>
+
 </div>
