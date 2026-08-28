@@ -17,14 +17,6 @@ Kendimi yazılım ve oyun geliştirme alanında geliştirmeye çalışıyor, ö�
 
 Kod yazarken yalnızca çalışan sistemler oluşturmayı değil; zamanla daha düzenli, performanslı ve anlaşılır kod yazmayı da hedefliyorum.
 
-- 🎮 MTA:SA için client/server sistemleri geliştiriyorum.
-- 🎨 DX Render kullanarak kullanıcı arayüzleri tasarlıyorum.
-- 📚 Yeni teknolojiler ve geliştirme yöntemleri öğreniyorum.
-- ⚡ Performanslı ve gereksiz kaynak tüketmeyen sistemler yazmaya çalışıyorum.
-- 🧩 Modüler ve yeniden kullanılabilir yapılar oluşturmaya önem veriyorum.
-- 🛠️ Yazdığım kodları sürekli geliştiriyor ve daha iyi hale getirmeye çalışıyorum.
-- 🔍 Hataları inceleyerek ve araştırarak kendimi geliştirmeye devam ediyorum.
-
 ## 🔭 Şu Anda
 
 Mercy Roleplay için çeşitli oyun içi sistemler, DX arayüzleri, bildirim sistemleri ve ekonomi yapıları üzerinde çalışıyorum.
@@ -37,10 +29,7 @@ Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek proje
 
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
@@ -64,25 +53,9 @@ Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek proje
   <a href="https://discord.gg/lattelabs">
     <img src="https://img.shields.io/badge/Discord-Latte Labs-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://github.com/senel-debug">
-    <img src="https://img.shields.io/badge/GitHub-senel--debug-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:seneldev@email.com">
-    <img src="https://img.shields.io/badge/Gmail-seneldev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
 </div>
 
 <div align="center">
-
-⚡ Öğren. Geliştir. Dene. Tekrar et.
-
-<br>
-
-<sub>
-  <strong>"Her proje, daha iyi bir geliştirici olmak için yeni bir adım."</strong>
-</sub>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=senel-debug&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views">
 
