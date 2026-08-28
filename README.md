@@ -44,7 +44,7 @@ Bu projeler sayesinde Lua ve MTA:SA bilgimi ilerletiyor ve daha fazla deneyim ka
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-## 📫 İletişim
+## İletişim
 
 <div align="center">
   <p>
@@ -57,9 +57,7 @@ Bu projeler sayesinde Lua ve MTA:SA bilgimi ilerletiyor ve daha fazla deneyim ka
 </div>
 
 <div align="center">
-
-<br>
-
+<p>
 <img src="https://komarev.com/ghpvc/?username=senel-debug&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views">
-
+</p>
 </div>
