@@ -27,7 +27,7 @@ Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek proje
 
 ### Programming & Scripting
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
@@ -35,7 +35,7 @@ Bu projeler sayesinde hem Lua ve MTA:SA bilgimi ilerletiyor hem de gerçek proje
 
 ### Game Development & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/MTA%3ASA-0080FF?style=for-the-badge" alt="MTA:SA">
   <img src="https://img.shields.io/badge/DX%20Render-FF5722?style=for-the-badge" alt="DX Render">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
